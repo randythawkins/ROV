@@ -1,0 +1,58 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=diodeboard_01
+*Date=12:20:04
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;300 mil [THT];66.04;-37.6602;-90;Bottom;D34
+2;;300 mil [THT];20.32;-37.6602;-90;Bottom;D28
+3;;;44.4294;-34.8487;0;Bottom;IMG1
+4;;;13.7277;-51.8807;0;Bottom;TXT6
+5;;;38.3657;-20.7171;-90;Bottom;TXT4
+6;;300 mil [THT];83.82;-37.6602;-90;Bottom;D37
+7;;;43.5627;-17.0373;-90;Bottom;TXT4
+8;;;76.6624;-10.2522;0;Bottom;IMG2
+9;;300 mil [THT];15.24;-37.6602;-90;Bottom;D27
+10;;;48.5274;-17.9414;-90;Bottom;TXT3
+11;;;74.8763;-55.4914;0;Bottom;TXT1
+12;;;53.6885;-23.417;-90;Bottom;TXT3
+13;;;42.9872;-54.9768;0;Bottom;TXT5
+14;;;74.7486;-61.9572;0;Bottom;TXT2
+15;;;38.1418;-54.9678;0;Bottom;TXT5
+16;;;48.3745;-54.9893;0;Bottom;TXT5
+17;;300 mil [THT];35.56;-37.6602;-90;Bottom;D31
+18;;;86.36;-66.4016;0;Bottom;Hole1
+19;;;74.9666;-50.427;0;Bottom;TXT1
+20;;;4.15589;-5.10296;0;Bottom;Hole4
+21;;;74.9148;-52.9344;0;Bottom;TXT1
+22;;;2.54;-66.3254;0;Bottom;Hole2
+23;;;12.7949;-54.9317;0;Bottom;TXT6
+24;;300 mil [THT];40.64;-37.6602;-90;Bottom;D30
+25;;;14.67;-57.835;0;Bottom;TXT6
+26;;300 mil [THT];10.16;-37.6602;-90;Bottom;D26
+27;;THT;45.7201;-62.9056;-90;Bottom;J1
+28;;;66.44;-21.2443;-41.8;Bottom;TXT3
+29;;;33.4161;-19.8241;-90;Bottom;TXT4
+30;;;60.8768;-44.2557;0;Bottom;TXT5
+31;;;74.9635;-57.951;0;Bottom;TXT1
+32;;300 mil [THT];78.74;-37.6602;-90;Bottom;D36
+33;;;13.6841;-61.2324;0;Bottom;TXT6
+34;;;53.3761;-55.0017;0;Bottom;TXT5
+35;;;86.8381;-3.31042;0;Bottom;Hole3
+36;;THT;45.72;-7.38555;90;Bottom;J2
+37;;;78.4689;-44.2557;0;Bottom;TXT5
+38;;300 mil [THT];30.48;-37.6602;-90;Bottom;D29
+39;;;15.6401;-44.2557;0;Bottom;TXT5
+40;;300 mil [THT];55.88;-37.6602;-90;Bottom;D32
+41;;300 mil [THT];60.96;-37.6602;-90;Bottom;D33
+42;;;35.7453;-44.2557;0;Bottom;TXT5
+43;;300 mil [THT];73.66;-37.6602;-90;Bottom;D35
